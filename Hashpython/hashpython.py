@@ -14,3 +14,5 @@ for i in stringUsuario:
 #decodificação - uso uma função oposta ao ord() e diminui 128 para encontrar o valor correto
 for decode in list:
     print(chr(decode - 128))
+
+#17/10/2024 commit
