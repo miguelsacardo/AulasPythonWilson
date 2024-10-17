@@ -1,0 +1,6 @@
+Seu carrinho: 
+{'Produto': 'mamao', 'Valor do produto': 2.0, 'Quantidade': 2, 'Valor Total por Produto': 4.0} 
+{'Produto': 'bolacha', 'Valor do produto': 5.0, 'Quantidade': 2, 'Valor Total por Produto': 10.0} 
+{'Produto': 'balducco', 'Valor do produto': 2.0, 'Quantidade': 2, 'Valor Total por Produto': 4.0} 
+{'Produto': 'maçã', 'Valor do produto': 5.0, 'Quantidade': 7, 'Valor Total por Produto': 35.0} 
+Valor total da compra: 53.0 
